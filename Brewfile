@@ -9,6 +9,7 @@ cask install vagrant
 cask install alfread
 cask install java
 cask install sbt
+cask install iterm2
 
 install zsh
 install scala
