@@ -10,6 +10,8 @@ cask install alfread
 cask install java
 cask install sbt
 cask install iterm2
+cask install node
+cask install adobe-reader
 
 install zsh
 install scala
@@ -21,3 +23,4 @@ install vim
 install zsh-completions
 install docker
 install cassandra
+install autojump
