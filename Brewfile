@@ -12,6 +12,7 @@ cask install sbt
 cask install iterm2
 cask install node
 cask install adobe-reader
+cask install sublime-text
 
 install zsh
 install scala
@@ -24,3 +25,5 @@ install zsh-completions
 install docker
 install cassandra
 install autojump
+install mvn
+install the_silver_searcher
