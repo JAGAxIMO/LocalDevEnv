@@ -13,6 +13,7 @@ cask install iterm2
 cask install node
 cask install adobe-reader
 cask install sublime-text
+cask install slack
 
 install zsh
 install scala
@@ -27,3 +28,4 @@ install cassandra
 install autojump
 install mvn
 install the_silver_searcher
+install typesafe-activator
