@@ -29,3 +29,4 @@ install autojump
 install mvn
 install the_silver_searcher
 install typesafe-activator
+install jq
