@@ -1,33 +1,33 @@
-tap cask phinze/homebrew-cask
-
+tap caskroom/cask
 cask install google-chrome
 cask install google-japanese-ime
 cask install coteditor
 cask install intellij-idea
 cask install virtualbox
 cask install vagrant
-cask install alfread
+cask install alfred
 cask install java
-cask install sbt
 cask install iterm2
 cask install node
 cask install adobe-reader
 cask install sublime-text
 cask install slack
 cask install adobe-air
+cask install yorufukurou
 
 install zsh
 install scala
 install ruby
 install autoconf
 install play
-install vagrant-completion
+install sbt
+install homebrew/completions/vagrant-completion
 install vim
 install zsh-completions
 install docker
 install cassandra
 install autojump
-install mvn
+install maven
 install the_silver_searcher
 install typesafe-activator
 install jq
