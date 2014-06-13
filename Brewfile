@@ -14,6 +14,7 @@ cask install node
 cask install adobe-reader
 cask install sublime-text
 cask install slack
+cask install adobe-air
 
 install zsh
 install scala
